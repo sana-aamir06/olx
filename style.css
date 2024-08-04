@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.mob-img {
+    width: 90px;
+}
+.mob-img img {
+    width: 100%;
+}
+
+
+/* sec-cate */
+
+.car-img {
+    width: 90px;
+}
+.car-img img {
+    width: 100%;
+}
+
+/* third-cate */
+
+.third-cate{
+    width: 90px;
+}
+.house-img {
+    width: 90px;
+}
+.house-img img {
+    width: 100%;
+}
+
+
+/* four */
+.fourth-cate{
+    width: 90px;
+}
+.rent-img {
+    width: 90px;
+}
+.rent-img img {
+    width: 100%;
+}
+
+/* five */
+.fifth-cate{
+    width: 90px;
+}
+.electronics-img {
+    width: 90px;
+}
+.electronics-img img {
+    width: 100%;
+}
+
+
+
+/* six */
+
+.bikes-img {
+    width: 90px;
+}
+.bikes-img img {
+    width: 100%;
+}
+
+
+
+/* seven */
+.seventh-cate{
+    width: 90px;
+}
+.Business-img {
+    width: 90px;
+}
+.Business-img img {
+    width: 100%;
+}
+
+
+
+/* eight */
+
+.Services-img {
+    width: 90px;
+}
+.Services-img img {
+    width: 100%;
+}
+
+/* nine */
+
+.jobs-img {
+    width: 90px;
+}
+.jobs-img img {
+    width: 100%;
+}
+
+
+/* ten */
+
+.animals-img {
+    width: 90px;
+}
+.animals-img img {
+    width: 100%;
+}
+
+
+/* eleven */
+
+
+.Furniture-img {
+    width: 90px;
+}
+.Furniture-img img {
+    width: 100%;
+}
+
+/* twelve */
+
+.Fashion-img {
+    width: 90px;
+}
+.Fashion-img img {
+    width: 100%;
+}
+
+
+/* thirteen */
+
+.Books-img {
+    width: 90px;
+}
+.Books-img img {
+    width: 100%;
+}
+/* fourtheen */
+
+.kids-img {
+    width: 90px;
+}
+.kids-img img {
+    width: 100%;
+}
+
+
+.list{
+    font-size: small;
+}
+
